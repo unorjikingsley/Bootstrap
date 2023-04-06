@@ -147,6 +147,10 @@ h5 {
   background-position: 100% 10%;
 }
 
+.abt-me {
+  padding-top: 100px;
+}
+
 .about-me {
   font-family: 'Crete Round', sans-serif;
   font-style: normal;
@@ -164,4 +168,13 @@ h5 {
   line-height: 32px;
   width: 566px;
   height: 148px;
+}
+
+.lin-2 {
+  width: 1156px;
+  border-width: 3px solid #ffff;
+}
+
+.butn {
+  margin-bottom: 150px;
 }
