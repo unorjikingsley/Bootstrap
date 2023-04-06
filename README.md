@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse' project <a name="about-project"></a>
+# 📖 portfolio project Using Bootstrap <a name="about-project"></a>
 
 Hello Microverse Project is an entry level project for recent Micronuts. I created a responsive portfolio website for mobile and desktop. The aim of this project is for students to familiarize theirselves with Git, GitHub, HTML, and CSS and also build a responsive mobile Professionalsts portfolio.
 
@@ -49,12 +49,20 @@ Hello Microverse Project is an entry level project for recent Micronuts. I creat
   </ul>
 </details>
 
+<details>
+  <summary>Bootstrap</summary>
+  <ul>
+    <li><a href="#">Bootstrap</a></li>
+  </ul>
+</details>
+
 ### Key Features <a name="key-features"></a>
 
 - Display text on Chrome or any v8 engines
 - Mobile portfolio website
 - Error free
 - Animations and transitions
+- bootstrap usage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +70,7 @@ Hello Microverse Project is an entry level project for recent Micronuts. I creat
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo] (https://unorjikingsley.github.io/Portfolio-Website/)
+- [Live Demo] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
