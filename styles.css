@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto:wght@700&display=swap");
 
 * {
   box-sizing: border-box;
@@ -26,7 +26,7 @@
 }
 
 h1 {
-  font-family: 'Crete Round', sans-serif;
+  font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
@@ -37,7 +37,7 @@ h1 {
 }
 
 .sze {
-  line-height: 32px;
+  line-height: 30px;
   font-size: 20px;
 }
 
@@ -47,7 +47,7 @@ h1 {
 }
 
 ul.d-flex.gap-3 li {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -60,7 +60,7 @@ ul.d-flex.gap-3 li {
 
 .mps h3 {
   color: #091e42;
-  font-family: 'Crete Round', sans-serif;
+  font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
@@ -69,7 +69,7 @@ ul.d-flex.gap-3 li {
 
 .ads {
   color: #091e42;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -79,7 +79,7 @@ ul.d-flex.gap-3 li {
 
 .btn {
   background: #ff6b00;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -105,7 +105,7 @@ button.btn:hover {
 }
 
 h5 {
-  font-family: 'Crete Round', sans-serif;
+  font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -114,7 +114,7 @@ h5 {
 }
 
 .para {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
@@ -148,7 +148,7 @@ h5 {
 }
 
 .about-me {
-  font-family: 'Crete Round', sans-serif;
+  font-family: "Crete Round", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
@@ -157,7 +157,7 @@ h5 {
 }
 
 .about-me-p {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
