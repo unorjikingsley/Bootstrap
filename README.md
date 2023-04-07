@@ -49,6 +49,12 @@ Hello Microverse Project is an entry level project for recent Micronuts. I creat
   </ul>
 </details>
 
+## 🚀 Project Brief <a name="live-demo"></a>
+
+- [Loom Walkthrough] ([https://www.loom.com/share/f0ea42d26b39466fb01c0ae4e83ff080])
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Key Features <a name="key-features"></a>
 
 - Display text on Chrome or any v8 engines
